@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">QuizzApplication</string>
+
+    <string name="question_number">1/8 Questions</string>
+    <string name="score">Score 0/8</string>
+
+    <string name="question1">What is the largest state in Australia?</string>
+    <string name="question1_A">South Australia</string>
+    <string name="question1_B">Western Australia</string>
+    <string name="question1_c">Victoria</string>
+    <string name="question1_D">Queensland</string>
+    <string name="answer1">Western Australia</string>
+
+
+    <string name="question2">Which system of the body allows us to move? </string>
+    <string name="question2_A">The muscular system</string>
+    <string name="question2_B">Integumentary system</string>
+    <string name="question2_c">Digestive system</string>
+    <string name="question2_D">Cardiovascular system</string>
+    <string name="answer2">The muscular system</string>
+
+    <string name="question3"> Which country has its capital Algiers? </string>
+    <string name="question3_A">China</string>
+    <string name="question3_B">Japan</string>
+    <string name="question3_c">Algeria</string>
+    <string name="question3_D">Egypt</string>
+    <string name="answer3">Algeria</string>
+
+    <string name="question4"> How many days does it take for the Earth to orbit the Sun? </string>
+    <string name="question4_A">365</string>
+    <string name="question4_B">300</string>
+    <string name="question4_c">350</string>
+    <string name="question4_D">346</string>
+    <string name="answer4">365</string>
+
+    <string name="question5"> What’s the capital of Canada?  </string>
+    <string name="question5_A">Montreal</string>
+    <string name="question5_B">Ottawa</string>
+    <string name="question5_c">Toronto</string>
+    <string name="question5_D">Regina</string>
+    <string name="answer5">Ottawa</string>
+
+    <string name="question6"> What year was the United Nations established?  </string>
+    <string name="question6_A">1930</string>
+    <string name="question6_B">1940</string>
+    <string name="question6_c">1899</string>
+    <string name="question6_D">1945</string>
+    <string name="answer6">1945</string>
+
+    <string name="question7"> What is the largest Spanish speaking city in the world? </string>
+    <string name="question7_A">Mexico City</string>
+    <string name="question7_B">Spain</string>
+    <string name="question7_c">Colombia</string>
+    <string name="question7_D">Brazil</string>
+    <string name="answer7">Mexico City</string>
+
+    <string name="question8"> what is the most programming language used ? </string>
+    <string name="question8_A">Python</string>
+    <string name="question8_B">Java</string>
+    <string name="question8_c">JavaScript</string>
+    <string name="question8_D">C#</string>
+    <string name="answer8">Python</string>
+<string name="text">Lamy\'s Quiz is developed for educational purpose, allowing the users to examine their knowledge in differents domains .
+</string>
+
+
+</resources>
